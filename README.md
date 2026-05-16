@@ -20,7 +20,11 @@ Description de notre commit avec des informations sur l'évolution du projet
 
 ```bash
 git add .
+<<<<<<< HEAD
 git commit -m "Titre du commentaire"
+=======
+git commit -m "Un commentaire"
+>>>>>>> main
 git push origin main
 ```
 
